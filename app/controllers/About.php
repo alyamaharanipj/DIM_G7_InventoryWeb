@@ -8,5 +8,4 @@ class About extends Controller{
     $this->view('about/index');
     $this->view('templates/footer');
  }
-
 }
